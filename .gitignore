@@ -1,0 +1,15 @@
+# Ignore build folders
+build/
+*.obj
+*.exe
+*.o
+*.dll
+*.log
+
+# Qt specific
+*.user
+*.qrc.dep
+
+# OS/IDE junk
+.DS_Store
+Thumbs.db
